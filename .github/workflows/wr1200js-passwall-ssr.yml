@@ -116,5 +116,5 @@ jobs:
       uses: actions/upload-artifact@master
       with:
         #=================================================
-        name: newifi3+passwall-20211007
+        name: wr1200js-passwall-ssr
         path: ./lede/bin
